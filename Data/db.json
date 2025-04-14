@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "4",
+      "title": "Intro to Python for Data Science",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue, lorem vitae venenatis fermentum, metus urna tincidunt ex, non scelerisque arcu tortor nec ipsum. Integer gravida, mi ut efficitur volutpat, ligula odio luctus tortor, vel dictum turpis risus ut augue.",
+      "author": "Emily Davis"
+    },
+    {
+      "id": "5",
+      "title": "Building a Simple To-Do App with Vue.js",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur, odio eu suscipit volutpat, ante nunc viverra ligula, sit amet eleifend turpis risus et ante. Cras convallis purus vitae sapien viverra, ut tincidunt nisl euismod. Mauris sit amet odio sed lectus varius maximus.",
+      "author": "Chris Lee"
+    },
+    {
+      "id": "8103",
+      "title": "Ada Lovelace",
+      "author": "The Origins of Programming",
+      "body": "Long before computers existed as we know them, Ada Lovelace wrote the first algorithm intended for a machine. Her visionary thinking laid the groundwork for modern programming. This blog explores her contributions and why she's often called the world's first programmer"
+    }
+  ]
+}
